@@ -1,4 +1,4 @@
-It took me around 2.5 days to complete the whole game. I haven't sharing the webgl version, you need to download the build files inorder to play.
+It took me around 2.5 days to complete the whole game. I haven't sharing the webgl version, you need to download the build files inorder to play.<br>
 Download the build Game using this link
 https://drive.google.com/drive/folders/1X5Kah7atp-60AHQ1XgJROZOeDKEZvdZG?usp=sharing
 <h1>CONTROLS</h1>
