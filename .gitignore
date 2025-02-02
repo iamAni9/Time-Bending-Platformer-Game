@@ -1,0 +1,75 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Unity crash and log files
+sysinfo.txt
+crash.log
+error.log
+
+# Visual Studio / Rider / VS Code
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.tmp
+*.bak
+*.ncb
+*.opendb
+*.VC.db
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*.pid
+
+# Package management
+Packages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# Ignore JetBrains Rider workspace
+.idea/
+
+# Ignore Play mode test results
+Assets/Scenes/Tests/**/playmode-results.xml
+
+# Logs and local settings
+Logs/
+UserSettings/
+
+# Unity Cloud Build
+[Uu]ser[Ss]ettings/
+
+# Ignore crash reports
+*.crash
+
+# Ignore Auto-generated StreamingAssets
+Assets/StreamingAssets/*
+
+# Exclude builds
+[Bb]uilds/
+
+# Exclude any personal settings
+*.swp
+*.swo
+*.log
+*.lock
+*.orig
